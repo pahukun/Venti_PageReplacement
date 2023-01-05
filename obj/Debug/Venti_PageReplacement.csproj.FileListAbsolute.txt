@@ -1,0 +1,10 @@
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\bin\Debug\Venti_PageReplacement.exe.config
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\bin\Debug\Venti_PageReplacement.exe
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\bin\Debug\Venti_PageReplacement.pdb
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\obj\Debug\Venti_PageReplacement.csprojAssemblyReference.cache
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\obj\Debug\Venti_PageReplacement.Properties.Resources.resources
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\obj\Debug\Venti_PageReplacement.csproj.GenerateResource.cache
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\obj\Debug\Venti_PageReplacement.csproj.CoreCompileInputs.cache
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\obj\Debug\Venti_PageReplacement.exe
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\obj\Debug\Venti_PageReplacement.pdb
+D:\Program Files\Project Visual Studio\CS422\EXAM Mid Term\Venti_PageReplacement\Venti_PageReplacement\obj\Debug\Venti_PageReplacement.MainWindows.resources
